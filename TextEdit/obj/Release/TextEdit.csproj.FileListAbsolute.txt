@@ -1,0 +1,9 @@
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\bin\Release\TextEdit.exe.config
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\bin\Release\TextEdit.exe
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\bin\Release\TextEdit.pdb
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\obj\Release\TextEdit.Form1.resources
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\obj\Release\TextEdit.Properties.Resources.resources
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\obj\Release\TextEdit.csproj.GenerateResource.cache
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\obj\Release\TextEdit.csproj.CoreCompileInputs.cache
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\obj\Release\TextEdit.exe
+D:\c#practis\rapidfire\TextEditor\TEXT\TextEdit\TextEdit\obj\Release\TextEdit.pdb
